@@ -1,0 +1,20 @@
+{
+    "name": "Online Book Store",
+    "orders": "Orders",
+    "toOrders": "To Orders",
+    "availableBooks": "Books In Stock",
+    "title": "Title",
+    "author": "Author",
+    "price": "Price",
+    "publishingHouse": "Publishing House",
+    "inventory": "Inventory",
+    "addToCart": "Add to Cart",
+    "quantity": "Count",
+    "cart": "Shoppping Cart",
+    "total": "Total",
+    "pay": "Pay",
+    "pcs": "pcs",
+    "hello": "hello",
+    "goodbye": "goodbye",
+    "message": "message through i18n !!"
+  }
